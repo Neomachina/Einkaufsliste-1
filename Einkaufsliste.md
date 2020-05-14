@@ -6,3 +6,6 @@
 * Gurke
 * Bananen
 * Milch
+
++ Schoko-Bon
++ Nutella
