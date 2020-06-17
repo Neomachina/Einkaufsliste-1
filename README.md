@@ -6,4 +6,4 @@ Age ∈ [20,30]
 ████████, ██████,██████████  
 ████, ████  
 
-
+[Änderung von Cedric Collet sind hier]
